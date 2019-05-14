@@ -1,9 +1,0 @@
-package org.bpm;
-
-import java.lang.Number;
-
-rule "TEST"
-	dialect "mvel"
-	when
-	then
-end
