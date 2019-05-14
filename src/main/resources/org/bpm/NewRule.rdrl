@@ -1,0 +1,9 @@
+package org.bpm;
+
+import java.lang.Number;
+
+rule "NewRule"
+	dialect "mvel"
+	when
+	then
+end
