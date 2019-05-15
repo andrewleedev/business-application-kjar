@@ -1,9 +1,0 @@
-package org.bpm;
-
-import java.lang.Number;
-
-rule "DoSomethingBetter"
-	dialect "mvel"
-	when
-	then
-end
